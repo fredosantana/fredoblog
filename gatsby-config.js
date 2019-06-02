@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `fredo's Unemployed Life`,
+    title: `Meet Wil Santana`,
     author: `Wil Santana`,
     description: `This blog will document my journey to go from unemployed to being a web developer. It will also cover product reviews for things I try, Netflix show reviews, and general random musings :).`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,

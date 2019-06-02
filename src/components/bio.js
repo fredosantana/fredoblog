@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              This blog will document <strong>{author}'s</strong> journey to go from unemployed to being a web developer. It will also cover product reviews for things I try, Netflix show reviews, and general random musings :).
+              This blog will document my journey to a career in software development. It will also cover product reviews for things I try, Netflix show reviews, and general random musings :).
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
