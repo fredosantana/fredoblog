@@ -4,7 +4,7 @@ date: "2019-06-03T16:52:32.169Z"
 description: Taking a long, hard look at the job search experience 
 ---
 
-Recently I inteded to go to a job fair. I got 25 copies of my resume ready to show off to potential employers. Before the job fair started I decided to have breakfast and use that time to come up with talking points. 
+Recently I intended to go to a job fair. I got 25 copies of my resume ready to show off to potential employers. Before the job fair started I decided to have breakfast and use that time to come up with talking points. 
 
 <figure>
   <img src="./job_fair.jpg" alt="job fair">
